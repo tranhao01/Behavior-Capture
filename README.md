@@ -1,7 +1,11 @@
 # 🎯 AI Behavioral Analyst Tester
 
 Web app để test prompt phân tích hành vi người dùng với AI/LLM.
+---
+<img width="1569" height="799" alt="image" src="https://github.com/user-attachments/assets/a5ad38de-e34e-4d1f-a1a4-fc143324fb6d" />
+<img width="1660" height="833" alt="image" src="https://github.com/user-attachments/assets/3d7b6bab-cb77-4adb-be30-0db85e2508a4" />
 
+---
 ## Tính năng
 
 - ✅ UI thân thiện để nhập dữ liệu JSON
